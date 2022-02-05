@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1028658803890",
+    "firebase_url": "https://nearera-1b25b-default-rtdb.firebaseio.com",
+    "project_id": "nearera-1b25b",
+    "storage_bucket": "nearera-1b25b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1028658803890:android:5e7197a24b5d21babb85ab",
+        "android_client_info": {
+          "package_name": "com.near_era"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1028658803890-7406gum1ev9qioavq6n6adcp5cjns9go.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvIYab_DWUcWM1AG_HCzgDw91vuKo3DRw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1028658803890-7406gum1ev9qioavq6n6adcp5cjns9go.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
